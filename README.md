@@ -1,6 +1,10 @@
-# Hi 👋, I'm **Huda Ahmed**  
+<div align="center">
 
-### Software Tester | QA Engineer | Aspiring DevOps/DevSecOps  
+<h1>Hi 👋, I'm <strong>Huda Ahmed</strong></h1>
+<h2>Software Tester | QA Engineer | Aspiring DevOps/DevSecOps</h2>
+
+</div>
+
 
 ---
 
@@ -63,7 +67,11 @@
 
 ---
 
-## 📊 GitHub Stats  
+<div align="center">
+
+<h2>📊 GitHub Stats</h2>
+
+</div>   
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=huda-ahmed-elsayed&show_icons=true&theme=radical" height="160" />
