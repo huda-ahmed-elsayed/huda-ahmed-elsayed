@@ -51,6 +51,8 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/TestNG-DB0D33?style=flat&logo=testng&logoColor=white" />
 </p> 
 
 ### 🔗 Socials  
