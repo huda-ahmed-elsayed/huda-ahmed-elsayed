@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm <strong>Huda Ahmed</strong></h1>
-<h1>QA & Automation Engineer | Aspiring DevOps/DevSecOps</h1>
+<h1>QA & Automation Test Engineer | Aspiring DevOps/DevSecOps</h1>
 
 </div>
 
