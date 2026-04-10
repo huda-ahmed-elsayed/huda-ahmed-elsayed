@@ -1,7 +1,6 @@
 <div align="center">
 
 <h1>Hi 👋, I'm <strong>Huda Ahmed</strong></h1>
-
 <h2><strong>Quality Assurance | Business & System Analyst</strong></h2>
 
 </div>
