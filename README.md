@@ -75,8 +75,8 @@
 </div>   
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=huda-ahmed-elsayed&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=huda-ahmed-elsayed&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=huda-ahmed-elsayed&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huda-ahmed-elsayed&layout=compact&theme=radical" height="160"/>
 </p>
 
 <p align="center">
