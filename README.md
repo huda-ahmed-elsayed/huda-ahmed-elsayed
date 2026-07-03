@@ -16,7 +16,7 @@
 
 ## About Me
 
-QA & Business Analyst based in **Alexandria, Egypt**, passionate about bridging the gap between technical testing and business requirements. I specialize in building automated test frameworks, analyzing system behavior, and translating complex processes into clear, actionable documentation.
+QA & Business Analyst, passionate about bridging the gap between technical testing and business requirements. I specialize in building automated test frameworks, analyzing system behavior, and translating complex processes into clear, actionable documentation.
 
 - 🔍 Focused on **test automation**, **API testing**, and **defect lifecycle management**
 - 📊 Experienced in **data analysis**, **BI reporting**, and **requirements engineering**
