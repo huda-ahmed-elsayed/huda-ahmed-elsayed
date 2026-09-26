@@ -56,12 +56,12 @@ QA Engineer & Business Analyst actively transitioning into AI Engineering. I bri
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huda-ahmed-elsayed&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huda-ahmed-elsayed&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=huda-ahmed-elsayed&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huda-ahmed-elsayed&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=huda-ahmed-elsayed&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=huda-ahmed-elsayed&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 ---
