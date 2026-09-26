@@ -4,7 +4,7 @@
 
 **QA Engineer · Business Analyst · AI Engineering Student**
 
-*Pivoting from building reliable systems to building intelligent ones*
+*From testing systems to building intelligent ones*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huda-ahmed-elsayed/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/huda_ahmed)
@@ -20,14 +20,13 @@ QA Engineer & Business Analyst actively transitioning into AI Engineering. I bri
 
 - 🤖 Currently focused on **AI Engineering** — GenAI, LLMs, RAG & Agents
 - 🔍 Background in **test automation**, **API testing**, and **BA documentation**
-- 🐍 Building with **Python**, **FastAPI**, and the **IBM Generative AI Engineering** curriculum
-- 📚 IBM Generative AI Engineering Professional Certificate — In Progress
+- 🐍 Building with **Python** and **FastAPI**
 
 ---
 
 ## 🧰 Tech Stack
 
-### AI & Machine Learning
+### AI & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![IBM Watson](https://img.shields.io/badge/IBM_Watson-BE95FF?style=flat&logo=ibm&logoColor=white)
@@ -57,8 +56,8 @@ QA Engineer & Business Analyst actively transitioning into AI Engineering. I bri
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=huda-ahmed-elsayed&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huda-ahmed-elsayed&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=huda-ahmed-elsayed&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huda-ahmed-elsayed&layout=compact&theme=radical&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
