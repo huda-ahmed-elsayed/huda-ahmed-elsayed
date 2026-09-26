@@ -76,14 +76,14 @@ QA Engineer & Business Analyst actively transitioning into AI Engineering. I bri
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=huda-ahmed-elsayed&show_icons=true&theme=radical&hide_border=true" alt="Huda's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=huda-ahmed-elsayed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=huda-ahmed-elsayed&show_icons=true&theme=radical&hide_border=true" alt="Huda's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huda-ahmed-elsayed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huda-ahmed-elsayed&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=huda-ahmed-elsayed&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
 ---
